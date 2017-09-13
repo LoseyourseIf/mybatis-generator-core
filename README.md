@@ -2,7 +2,6 @@
 ````
 https://github.com/mybatis/generator/tree/master/core/mybatis-generator-core
 ````
-========
 Main Revision Generate With Out Blob
 ========
         Path:        src\main\java\org\mybatis\generator\api\IntrospectedColumn.java
